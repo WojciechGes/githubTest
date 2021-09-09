@@ -10,6 +10,9 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
+            
+            //i have not used Python. can we do any testing going forward in C# ;)
+            
         }
     ]
 }
